@@ -53,4 +53,4 @@ The Weather App (CLI) is a practical Python project that demonstrates how to int
 
 Developed by
 
-Rishi
+Rishidharan R
